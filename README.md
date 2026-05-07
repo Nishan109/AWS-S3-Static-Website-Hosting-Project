@@ -201,4 +201,3 @@ This project demonstrates a complete static website deployment workflow on AWS S
 **Production Ready:** The website is optimized for production use with proper file organization and access controls.
 
 I have documented all steps and troubleshooting solutions to ensure a comprehensive understanding of the S3 static hosting process.
-
